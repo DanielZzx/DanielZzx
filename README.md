@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielZzx
 - 👀 I’m interested in back-end
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning node.Js
 - 📫 How to reach me: daniell.vinicius22@gmail.com
 
 <!---
